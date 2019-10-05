@@ -1,0 +1,31 @@
+html{
+    background-color: rgb(0, 0, 0)
+}
+h1, h2{
+    text-align: center;
+}
+body{color: aqua;
+}
+img{display: block;
+margin: 0 auto;
+animation: fadein 2s;}
+a:link{
+    text-decoration: none;
+    color: aqua;
+}
+a:visited{
+    text-decoration: none;
+    color: aqua;
+    
+}
+a:hover{
+    text-decoration: none;
+    color: azure;
+}
+p{
+    text-indent: : lem;
+}
+@keyframes fadein{
+    from{opacity:  0;}
+    to{opacity: 1;}
+}
